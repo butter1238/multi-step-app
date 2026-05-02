@@ -15,6 +15,19 @@ I created a complete mobile application that guides users through a 5-step proce
 - **Step 3**: Conditional focus area (shows only if "Improve fitness" or "Advance career" goal selected)
 - **Step 4**: Preferences & notifications (app style, push notifications toggle, optional notes)
 
+### ✅ Final Summary Screen (Step 5)
+
+- Displays all user inputs in a clean summary view
+- Shows:
+  - Age range
+  - Selected goal
+  - Focus area (if applicable)
+  - Preferences and notification settings
+  - Optional notes
+- Allows users to review their selections before completion
+- Provides option to go back and edit responses
+- Ensures final data is saved successfully
+
 #### ✅ Progress Indicator
 
 - Visual progress bar showing current step (e.g., "Step 2 of 4")

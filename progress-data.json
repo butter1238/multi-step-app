@@ -1,13 +1,13 @@
 {
   "progress": {
-    "stepIndex": 2,
+    "stepIndex": 1,
     "ageRange": "Under 18",
     "goal": "Learn a skill",
     "extraFocus": "",
-    "appStyle": "Dark",
+    "appStyle": "Minimal",
     "notifications": true,
-    "notes": "This is noted ",
-    "updatedAt": "2026-05-02T20:46:58.529Z"
+    "notes": "This is a noted",
+    "updatedAt": "2026-05-02T21:06:51.192Z"
   },
-  "savedAt": "2026-05-02T20:46:58.563Z"
+  "savedAt": "2026-05-02T21:06:51.090Z"
 }

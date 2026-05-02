@@ -456,7 +456,7 @@ const styles = StyleSheet.create({
   },
   actionButton: {
     backgroundColor: "#007AFF",
-    paddingVertical: 14,
+    paddingVertical: 13,
     paddingHorizontal: 24,
     borderRadius: 12,
     shadowColor: "#000",
